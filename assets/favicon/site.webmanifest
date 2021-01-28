@@ -1,0 +1,18 @@
+{
+    "name": "OPAT\u0158EN\u00cd",
+    "short_name": "OPAT\u0158EN\u00cd",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fef900",
+    "background_color": "#fef900"
+}
