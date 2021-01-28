@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
-
 .all {
   max-width: none;
   place-content: center;
@@ -33,13 +31,14 @@
     }
 
     .text {
-      font-size: 3rem;
+      font-size: 2.7rem;
       text-align: center;
       font-weight: 900;
       text-transform: uppercase;
       padding: 1rem 0;
       display: block;
       max-width: 35rem;
+      font-family: 'Raleway', sans-serif;
     }
 
     .info {
@@ -52,9 +51,10 @@
         font-size: 1rem;
         text-align: center;
         //text-transform: uppercase;
+        //font-weight: 600;
 
         .author {
-          font-weight: 900;
+          //font-weight: 900;
           //font-size: 1rem;
           //text-align: center;
           text-transform: uppercase;
